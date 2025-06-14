@@ -1,0 +1,1 @@
+This project consist of 21263 known super conducting materials alongside 82 variables. A random forest regression ML model is created to fit a test set of 15% of the data while the remaining 85% were used to train the model.
